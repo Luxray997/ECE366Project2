@@ -1,11 +1,25 @@
-Group Contribution for Part 1a
+Team Members and Contributions:
 
-For Part 1a, all members contributed equally (33%) to the project, ensuring a balanced distribution of work in coding, debugging, and project management.
+Akbar Aman (aaman7@uic.edu) – Developed the core MIPS assembly code for the Fibonacci(n) program and wrote structured pseudocode in Python to guide the implementation.
 
-Akbar Aman (aaman7@uic.edu) was responsible for developing the core assembly (MIPS) code and writing structured pseudocode in Python to guide the implementation.
+Luke Abraham (lukeca3@uic.edu) – Contributed to coding the MIPS assembly program, set up the GitHub repository, and ensured proper version control for collaboration.
 
-Luke Abraham (lukeca3@uic.edu) also contributed heavily to the MIPS coding and created the GitHub repository, ensuring proper version control and collaboration.
+Ugo Alozie (ualoz2@uic.edu) – Assisted in coding and debugging the Fibonacci program to ensure correctness and efficiency.
 
-Ugo Alozie (ualoz2@uic.edu) assisted in ASM coding and focused on debugging to ensure the correctness and efficiency of the implementation.
+All members contributed equally, with each person responsible for approximately 33% of the project.
 
-Together, the team worked collaboratively to complete Part 1a successfully.
+GitHub Repository
+Link: 
+
+How to Run the MIPS Program
+Open MARS Simulator – Ensure you have MARS MIPS simulator installed.
+
+Load the .asm file – Open the provided Fibonacci.asm file in MARS.
+
+Assemble the Code – Click on "Assemble" to compile the assembly program.
+
+Run the Program – Click "Run", and when prompted, enter an integer n.
+
+View Output – The program will compute and display the nth Fibonacci number.
+
+This project implements the Fibonacci sequence in MIPS assembly, allowing a user to input a value n and receive Fibonacci(n) as output. The computation follows an iterative approach for efficiency, and the implementation correctly handles any base case the user prompts.
