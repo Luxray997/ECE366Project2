@@ -9,7 +9,7 @@ Ugo Alozie (ualoz2@uic.edu) – Assisted in coding and debugging the Fibonacci p
 All members contributed equally, with each person responsible for approximately 33% of the project.
 
 GitHub Repository
-Link: 
+Link: https://github.com/Luxray997/ECE366Project2
 
 How to Run the MIPS Program
 Open MARS Simulator – Ensure you have MARS MIPS simulator installed.
