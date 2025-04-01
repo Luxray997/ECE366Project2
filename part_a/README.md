@@ -1,4 +1,5 @@
 Group Contribution for Part 1a
+
 For Part 1a, all members contributed equally (33%) to the project, ensuring a balanced distribution of work in coding, debugging, and project management.
 
 Akbar Aman (aaman7@uic.edu) was responsible for developing the core assembly (MIPS) code and writing structured pseudocode in Python to guide the implementation.
