@@ -12,14 +12,10 @@ GitHub Repository
 Link: https://github.com/Luxray997/ECE366Project2
 
 How to Run the MIPS Program
-Open MARS Simulator – Ensure you have MARS MIPS simulator installed.
-
-Load the .asm file – Open the provided Fibonacci.asm file in MARS.
-
-Assemble the Code – Click on "Assemble" to compile the assembly program.
-
-Run the Program – Click "Run", and when prompted, enter an integer n.
-
-View Output – The program will compute and display the nth Fibonacci number.
-
-This project implements the Fibonacci sequence in MIPS assembly, allowing a user to input a value n and receive Fibonacci(n) as output. The computation follows an iterative approach for efficiency, and the implementation correctly handles any base case the user prompts.
+- Open file in MARS Simulator
+- Since syscall and print are not allowed, the source must be edited for input and debugging is used to see the output
+- Edit line 2 to set the input. The immediate value in the `addi` instruction will be the input `n`
+- Save and assemble the file
+- Set a breakpoint on the final `nop` to view the return value
+- Run the program
+- View register `v0` for the return value when the program halts at the breakpoint. Note that the value is displayed in hexadecimal
