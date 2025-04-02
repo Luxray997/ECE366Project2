@@ -4,7 +4,7 @@ Akbar Aman (aaman7@uic.edu) – Edited MIPS program for efficency and constructe
 
 Luke Abraham (lukeca3@uic.edu) – Developed the MIPS assembly program, pushed all files, and ensured project guidelines were met.
 
-Ugo Alozie (ualoz2@uic.edu) – Assisted in ebugging the program to ensure correctness and efficiency.
+Ugo Alozie (ualoz2@uic.edu) – Assisted in debugging the program to ensure correctness and efficiency.
 
 All members contributed equally, with each person responsible for (1/3) 33% of the project.
 
