@@ -1,12 +1,12 @@
 Team Members and Contributions:
 
-Akbar Aman (aaman7@uic.edu) – Developed the core MIPS assembly code for the Fibonacci(n) program and wrote structured pseudocode in Python to guide the implementation.
+Akbar Aman (aaman7@uic.edu) – Edited MIPS program for efficency and constructed README file.
 
-Luke Abraham (lukeca3@uic.edu) – Contributed to coding the MIPS assembly program, set up the GitHub repository, and ensured proper version control for collaboration.
+Luke Abraham (lukeca3@uic.edu) – Developed the MIPS assembly program, pushed all files, and ensured project guidelines were met.
 
-Ugo Alozie (ualoz2@uic.edu) – Assisted in coding and debugging the Fibonacci program to ensure correctness and efficiency.
+Ugo Alozie (ualoz2@uic.edu) – Assisted in ebugging the program to ensure correctness and efficiency.
 
-All members contributed equally, with each person responsible for approximately 33% of the project.
+All members contributed equally, with each person responsible for (1/3) 33% of the project.
 
 GitHub Repository
 Link: https://github.com/Luxray997/ECE366Project2
@@ -18,4 +18,4 @@ How to Run the MIPS Program
 - Save and assemble the file
 - Set a breakpoint on the final `nop` to view the return value
 - Run the program
-- View register `v0` for the return value when the program halts at the breakpoint. If the input is odd, the output should be `1` and if the input is even, the output should be `0`
+- View register `v0` for the return value when the program halts at the breakpoint. If the input is odd, the output will be `1` and if the input is even, the output will be `0`.
